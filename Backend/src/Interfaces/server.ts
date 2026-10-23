@@ -8,7 +8,7 @@ import express, {
 import cors from 'cors';
 import bcrypt from 'bcryptjs';
 import jwt from 'jsonwebtoken';
-import { pool } from './database';
+import { pool } from '../Config/database';
 import type {
   AuthRequest,
   TokenPayload,
