@@ -1,4 +1,3 @@
-
 import 'dotenv/config';
 import express, {
   type Request,
@@ -118,7 +117,7 @@ const soloAdmin: RequestHandler = (
 
 // ---------- ESTADO DE LA API ----------
 
-app.get('/api/salud', async (_req: Request, res: Response) => {
+app.get('/api/bd', async (_req: Request, res: Response) => {
   try {
     await pool.query('SELECT 1');
 
