@@ -8,3 +8,14 @@ FerreArmijos es una aplicación orientada a la gestión y comercialización de p
 - Git: sistema de control de versiones.
 - GitHub: plataforma de alojamiento y colaboración del código fuente.
 - Visual Studio Code: entorno de desarrollo.
+
+# Evidencias de la implementación
+Para demostrar la aplicación práctica se incorporarán capturas de pantalla de:
+- Repositorio creado en GitHub.
+- Estructura de ramas y commits.
+- Pull Request con su revisión.
+- Pipeline de GitHub Actions ejecutado correctamente.
+- Pruebas automatizadas.
+- Especificación funcional del inventario.
+- Tablero de GitHub Projects con tareas.
+- Aplicación Angular conectada a la API y a PostgreSQL.
